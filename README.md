@@ -26,6 +26,6 @@ Build objectives:
 Chassis: 
 
 Steering:
-![Ackerman Steering]("ackerman steering.png")
+<img src="ackerman steering.png" alt="Ackerman Steering">
 
 Drive Motor
