@@ -25,6 +25,7 @@ Build objectives:
 
 Chassis: 
 
-Steering
+Steering:
+![Ackerman Steering](ackerman steering.png)
 
 Drive Motor
