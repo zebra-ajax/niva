@@ -26,6 +26,9 @@ Build objectives:
 Chassis: 
 
 Steering:
+Explain what Ackerman steering is and why it helps
+
+This was an early prototype of the Ackerman Steering model before we added it to the first iteration of our Lego car chassis
 <img src="ackerman steering.png" alt="Ackerman Steering">
 
 Drive Motor
